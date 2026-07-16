@@ -1,0 +1,5 @@
+# 依存ライブラリ一覧 (例)
+# numpy
+# matplotlib
+# pandas
+# smbus2
